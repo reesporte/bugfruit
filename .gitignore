@@ -1,0 +1,9 @@
+tags.dot
+coverage
+*.swp
+TODO
+BENCHMARKING
+**/*.out
+**/*.mprof
+**/*.test
+benchmark
