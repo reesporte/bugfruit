@@ -1,3 +1,5 @@
+![bugfruit.png](bugfruit.png)
+
 # bugfruit
 
 bugfruit is a simple embedded key-value store.
