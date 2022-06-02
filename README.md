@@ -1,4 +1,4 @@
-![bugfruit.png](bugfruit.png)
+![bugfruit logo](logo/bugfruit.svg)
 
 # bugfruit
 
